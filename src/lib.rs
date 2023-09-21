@@ -1,3 +1,9 @@
+//! Used in the backend of the Abineo Analytics server.
+//!
+//! See [api functions] for entry points.
+//!
+//! [api functions]: api#functions
+
 use crate::api::PubVisitor;
 use chrono::{DateTime, Utc};
 use lazy_static::lazy_static;
