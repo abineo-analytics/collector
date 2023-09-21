@@ -1,5 +1,6 @@
 [package]
 name = "abineo-analytics-collector"
+description = "Used in the backend of the Abineo Analytics server."
 version = "0.1.0"
 edition = "2021"
 license-file = "LICENSE"
